@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/BP_SceneCapture.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/RT.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/TP/YSSNBHN42Q1YK6WGOKJE72.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/SA/CYHP5WTC35U2Q6JCVGE9BP.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/OO/W7I90KE4J67IFWCOF0YX5Z.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/BU/KBFIHVAGQL5J5U0YUV4IA4.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/5S/LYZ6U2I2FSMUEZSKESYP1U.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/CE/ZIZ37HKXMYYT0WZH7SBKCE.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/1Z/VFUP5WARV32IAV3LAMG2M2.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/27/9GH317TWE8NURQZ8AX568E.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/GP/QGW6E3RFJJN4F9YACS83GG.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/XQ/8KGCOALSQ88KD9E3CQ37FT.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/6M/XX401E0YG62FBVHNWKOC0X.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/CE/1TB2Y9V625VOD1QQNAE9NV.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/TC/36OR0F1DE379SQZQPX5G0B.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/VU/GR264GGHNK2DEQFYFHNKRI.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/32/SZX6X9Q68SFISRPNET3SOY.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/C2/CBJ0G5BLY860IMOR91TUWK.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3A/2XPBGXT2HD570ZU2KUUQ3N.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/H9/P89NT5SSR7V2RBF91C3P6P.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/GE/OXSNU19NIHZEIHWMVOF1KA.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/QP/XUAS22MM8PCU2J9DT0IYK8.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset",
+				"D:/Users/Emil/Documents/Unreal Projects/SceneCaptures/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset"
+			]
+		}
+	]
+}
